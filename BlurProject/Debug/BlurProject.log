@@ -1,0 +1,36 @@
+﻿  BlurProject.cpp
+  imageForBlur.cpp
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(17,71): warning C4244: аргумент: преобразование "DOUBLE" в "INT", возможна потеря данных
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(17,45): warning C4244: аргумент: преобразование "DOUBLE" в "INT", возможна потеря данных
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(22,13): warning C4101: B: неиспользованная локальная переменная
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(22,7): warning C4101: R: неиспользованная локальная переменная
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(22,10): warning C4101: G: неиспользованная локальная переменная
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(45,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(88,30): warning C4018: <: несоответствие типов со знаком и без знака
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(90,31): warning C4018: <: несоответствие типов со знаком и без знака
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(107,50): warning C4244: аргумент: преобразование "double" в "BYTE", возможна потеря данных
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(107,43): warning C4244: аргумент: преобразование "double" в "BYTE", возможна потеря данных
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(107,36): warning C4244: аргумент: преобразование "double" в "BYTE", возможна потеря данных
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(84,18): warning C4101: xmin: неиспользованная локальная переменная
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(84,12): warning C4101: ymax: неиспользованная локальная переменная
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(84,24): warning C4101: xmax: неиспользованная локальная переменная
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(84,6): warning C4101: ymin: неиспользованная локальная переменная
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(120,20): warning C4018: <: несоответствие типов со знаком и без знака
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(123,21): warning C4018: <: несоответствие типов со знаком и без знака
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(130,43): warning C4018: <: несоответствие типов со знаком и без знака
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(145,21): warning C4018: <: несоответствие типов со знаком и без знака
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(147,77): warning C4244: аргумент: преобразование "double" в "BYTE", возможна потеря данных
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(147,61): warning C4244: аргумент: преобразование "double" в "BYTE", возможна потеря данных
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(147,45): warning C4244: аргумент: преобразование "double" в "BYTE", возможна потеря данных
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(151,20): warning C4018: <: несоответствие типов со знаком и без знака
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(154,21): warning C4018: <: несоответствие типов со знаком и без знака
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(161,43): warning C4018: <: несоответствие типов со знаком и без знака
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(176,21): warning C4018: <: несоответствие типов со знаком и без знака
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(178,77): warning C4244: аргумент: преобразование "double" в "BYTE", возможна потеря данных
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(178,61): warning C4244: аргумент: преобразование "double" в "BYTE", возможна потеря данных
+  kWnd.cpp
+  mainWindow.cpp
+d:\Repositories\BlurProject\BlurProject\imageForBlur.cpp(178,45): warning C4244: аргумент: преобразование "double" в "BYTE", возможна потеря данных
+  Создание кода...
+d:\Repositories\BlurProject\BlurProject\mainWindow.cpp(31,10): warning C4101: hbmMem: неиспользованная локальная переменная
+  BlurProject.vcxproj -> D:\Repositories\BlurProject\Debug\BlurProject.exe
